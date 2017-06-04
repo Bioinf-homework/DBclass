@@ -1,0 +1,45 @@
+﻿生成启动时间为 2017/5/21 14:57:53。
+     1>项目“D:\gitwork\HIT-Database\experiment4\experiment4\experiment4.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\gitwork\hit-database\experiment4\experiment4\main.cpp(56): warning C4101: “j”: 未引用的局部变量
+     1>d:\gitwork\hit-database\experiment4\experiment4\main.cpp(208): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\gitwork\hit-database\experiment4\experiment4\main.cpp(233): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\gitwork\hit-database\experiment4\experiment4\main.cpp(235): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\gitwork\hit-database\experiment4\experiment4\main.cpp(265): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\gitwork\hit-database\experiment4\experiment4\main.cpp(302): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\gitwork\hit-database\experiment4\experiment4\main.cpp(248): warning C4101: “i”: 未引用的局部变量
+     1>d:\gitwork\hit-database\experiment4\experiment4\main.cpp(333): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\gitwork\hit-database\experiment4\experiment4\main.cpp(345): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\gitwork\hit-database\experiment4\experiment4\main.cpp(365): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\gitwork\hit-database\experiment4\experiment4\main.cpp(369): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\gitwork\hit-database\experiment4\experiment4\main.cpp(375): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\gitwork\hit-database\experiment4\experiment4\main.cpp(389): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\gitwork\hit-database\experiment4\experiment4\main.cpp(415): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\gitwork\hit-database\experiment4\experiment4\main.cpp(417): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\gitwork\hit-database\experiment4\experiment4\main.cpp(412): warning C4101: “c”: 未引用的局部变量
+     1>d:\gitwork\hit-database\experiment4\experiment4\main.cpp(505): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\gitwork\hit-database\experiment4\experiment4\main.cpp(509): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\gitwork\hit-database\experiment4\experiment4\main.cpp(517): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\gitwork\hit-database\experiment4\experiment4\main.cpp(519): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\gitwork\hit-database\experiment4\experiment4\main.cpp(552): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\gitwork\hit-database\experiment4\experiment4\main.cpp(554): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\gitwork\hit-database\experiment4\experiment4\main.cpp(579): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\gitwork\hit-database\experiment4\experiment4\main.cpp(610): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\gitwork\hit-database\experiment4\experiment4\main.cpp(612): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\gitwork\hit-database\experiment4\experiment4\main.cpp(647): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\gitwork\hit-database\experiment4\experiment4\main.cpp(649): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\gitwork\hit-database\experiment4\experiment4\main.cpp(687): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\gitwork\hit-database\experiment4\experiment4\main.cpp(689): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\gitwork\HIT-Database\experiment4\Debug\experiment4.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\gitwork\HIT-Database\experiment4\Debug\experiment4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\gitwork\HIT-Database\experiment4\Debug\experiment4.lib" /MACHINE:X86 Debug\extmem.obj
+         Debug\main.obj
+         Debug\t.obj
+         Debug\test.obj
+         experiment4.vcxproj -> D:\gitwork\HIT-Database\experiment4\Debug\experiment4.exe
+     1>已完成生成项目“D:\gitwork\HIT-Database\experiment4\experiment4\experiment4.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.08

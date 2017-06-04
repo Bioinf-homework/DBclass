@@ -1,0 +1,1 @@
+{"PROJECTION [ BDATE ] ": {"SELECT [ ENAME = John & DNAME = Research ] ": {"join ": ["EMPLOYEE", "DEPARTMENT"]}}}
